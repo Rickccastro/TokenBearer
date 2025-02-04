@@ -1,0 +1,9 @@
+.vs/
+bin/
+obj/
+*.user
+*.suo
+APICatalogo/Properties/launchSettings.json
+APICatalogo/appsettings.Development.json
+APICatalogo/appsettings.json
+
